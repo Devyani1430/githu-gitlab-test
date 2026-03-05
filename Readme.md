@@ -1,4 +1,4 @@
-# Succesfully completed the Tasks:
+# GitHub Gitlab Mirror Repository Project
 
 ## 1. Public and private Reposetories
 ![private-public](image/githu-pri-pub.png)
